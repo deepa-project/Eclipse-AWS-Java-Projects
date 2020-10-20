@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;Action_form_process.jsp, Action_form.jsp, login.html, success.html, validate_cred.jsp&apos; to &apos;META-INF&apos;" description="Move 5 resources to &apos;META-INF&apos;" destination="WebContent/META-INF" element1="/FinAcc2/WebContent/Action_form_process.jsp" element2="/FinAcc2/WebContent/Action_form.jsp" element3="/FinAcc2/WebContent/login.html" element4="/FinAcc2/WebContent/success.html" element5="/FinAcc2/WebContent/validate_cred.jsp" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="5" stamp="1598470707078" updateReferences="true"/>
+</session>

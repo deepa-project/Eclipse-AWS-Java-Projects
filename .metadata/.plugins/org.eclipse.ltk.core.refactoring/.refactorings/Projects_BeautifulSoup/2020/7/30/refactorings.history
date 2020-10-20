@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Projects_BeautifulSoup/bs_example1&apos; to &apos;bs_example1.py&apos;" description="Rename resource &apos;bs_example1&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="bs_example1" name="bs_example1.py" stamp="1595315728827" updateReferences="true"/>
+</session>

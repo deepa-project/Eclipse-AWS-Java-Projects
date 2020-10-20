@@ -1,0 +1,124 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Eclipse AWS Java Projects\.metadata\.plugins\org.eclipse.core.resources\.projects\LearningPython\com.python.pydev.analysis\v2_indexcache
+if_else_exercises|1593768942048605000|C:\Eclipse AWS Java Projects\LearningPython\if_else_exercises.py
+fun_and_modules1|1594064435093849000|C:\Eclipse AWS Java Projects\LearningPython\fun_and_modules1.py
+exercise_forloop|1594060699498224000|C:\Eclipse AWS Java Projects\LearningPython\exercise_forloop.py
+the_python_elses|1599666816037256000|C:\Eclipse AWS Java Projects\LearningPython\the_python_elses.py
+leet_code_Sept_day2|1599069404948535000|C:\Eclipse AWS Java Projects\LearningPython\leet_code_Sept_day2.py
+triangle|1593566246113711000|C:\Eclipse AWS Java Projects\LearningPython\triangle.py
+exercise8|1599552346148726000|C:\Eclipse AWS Java Projects\LearningPython\exercise8.py
+exercise7|1593768559720145000|C:\Eclipse AWS Java Projects\LearningPython\exercise7.py
+python_exercise|1598380525562503000|C:\Eclipse AWS Java Projects\LearningPython\python_exercise.py
+exercise6|1593767019738362000|C:\Eclipse AWS Java Projects\LearningPython\exercise6.py
+myletter|1593449426050741000|C:\Eclipse AWS Java Projects\LearningPython\myletter.py
+exercise5|1593765949939807000|C:\Eclipse AWS Java Projects\LearningPython\exercise5.py
+exercise4|1593565337791681000|C:\Eclipse AWS Java Projects\LearningPython\exercise4.py
+example2|1592500905083000000|C:\Eclipse AWS Java Projects\LearningPython\example2.py
+exercise2|1592928940158244000|C:\Eclipse AWS Java Projects\LearningPython\exercise2.py
+fun_and_moduels2|1594065121279600000|C:\Eclipse AWS Java Projects\LearningPython\fun_and_moduels2.py
+bx_wo_corners|1593566752202529000|C:\Eclipse AWS Java Projects\LearningPython\bx_wo_corners.py
+ClassAndMain|1599550257590371000|C:\Eclipse AWS Java Projects\LearningPython\ClassAndMain.py
+example1|1592500044789976000|C:\Eclipse AWS Java Projects\LearningPython\example1.py
+for_loop_exercise1|1594061416503603000|C:\Eclipse AWS Java Projects\LearningPython\for_loop_exercise1.py
+rectangle|1593565777452160000|C:\Eclipse AWS Java Projects\LearningPython\rectangle.py
+for_loop_exercise2|1594062829847332000|C:\Eclipse AWS Java Projects\LearningPython\for_loop_exercise2.py
+mandelbrot|1597862475961898000|C:\Eclipse AWS Java Projects\LearningPython\mandelbrot.py
+-- END DISKCACHE
+-- START DICTIONARY
+46
+33=C:\Eclipse AWS Java Projects\LearningPython\rectangle.py
+17=C:\Eclipse AWS Java Projects\LearningPython\leet_code_Sept_day2.py
+9=C:\Eclipse AWS Java Projects\LearningPython\ClassAndMain.py
+40=fun_and_modules1
+29=C:\Eclipse AWS Java Projects\LearningPython\bx_wo_corners.py
+13=C:\Eclipse AWS Java Projects\LearningPython\for_loop_exercise2.py
+32=triangle
+39=C:\Eclipse AWS Java Projects\LearningPython\fun_and_modules1.py
+2=exercise7
+3=C:\Eclipse AWS Java Projects\LearningPython\exercise5.py
+36=python_exercise
+24=exercise6
+27=C:\Eclipse AWS Java Projects\LearningPython\myletter.py
+28=myletter
+4=exercise5
+38=exercise4
+6=fun_and_moduels2
+20=exercise2
+41=C:\Eclipse AWS Java Projects\LearningPython\example1.py
+5=C:\Eclipse AWS Java Projects\LearningPython\fun_and_moduels2.py
+46=Example
+8=for_loop_exercise1
+14=for_loop_exercise2
+31=C:\Eclipse AWS Java Projects\LearningPython\triangle.py
+1=C:\Eclipse AWS Java Projects\LearningPython\exercise7.py
+45=Solution
+22=if_else_exercises
+15=C:\Eclipse AWS Java Projects\LearningPython\mandelbrot.py
+43=C:\Eclipse AWS Java Projects\LearningPython\exercise_forloop.py
+7=C:\Eclipse AWS Java Projects\LearningPython\for_loop_exercise1.py
+44=exercise_forloop
+18=leet_code_Sept_day2
+26=exercise8
+23=C:\Eclipse AWS Java Projects\LearningPython\exercise6.py
+12=example2
+11=C:\Eclipse AWS Java Projects\LearningPython\example2.py
+30=bx_wo_corners
+10=ClassAndMain
+21=C:\Eclipse AWS Java Projects\LearningPython\if_else_exercises.py
+34=rectangle
+42=example1
+16=mandelbrot
+19=C:\Eclipse AWS Java Projects\LearningPython\exercise2.py
+25=C:\Eclipse AWS Java Projects\LearningPython\exercise8.py
+35=C:\Eclipse AWS Java Projects\LearningPython\python_exercise.py
+37=C:\Eclipse AWS Java Projects\LearningPython\exercise4.py
+-- END DICTIONARY
+-- START TREE 1
+35
+age|2|age!1^1#1*19@age!3^1#1*35@
+ann|2|annual_decrease!5^10#5*50@annual_increase!5^5#5*50@
+coi|1|coins!7^5#1*67@
+con|1|converted_age!1^13#1*19@
+exa|1|Example!9^10#7*81@
+fna|1|fname!11^8#1*99@
+fou|1|found_coins!7^1#1*67@
+ful|1|full_name!11^10#1*99@
+ing|1|ingredients!13^1#1*115@
+lna|1|lname!11^9#1*99@
+mag|2|magic_coins!7^2#1*67@magnitude!15^31#5*130@
+mai|1|main!17^21#5*146@
+mes|2|message!19^3#1*163@message!11^1#1*99@
+mon|1|money!21^3#1*179@
+myv|1|myVal!23^1#1*195@
+nam|3|name!11^5#1*99@name!19^2#1*163@name2!19^13#1*163@
+num|1|number_of_days!7^3#1*67@
+ran|2|rangex!15^18#1*131@rangey!15^19#1*131@
+set|1|setup!15^22#5*130@
+sol|2|Solution!17^7#7*145@Solution!25^8#7*209@
+spa|1|spaces!27^1#1*227@
+sto|1|stolen_coins!7^4#1*67@
+t|5|t!29^3#1*243@t!31^3#1*259@t!33^3#1*275@t!35^21#1*291@t!37^4#1*307@
+tes|1|testfunc!39^2#5*322@
+the|1|the_world_is_flat!41^2#1*339@
+twi|1|twinkies!21^12#1*179@
+wiz|1|wizard_list!43^1#1*355@
+x|3|x!33^4#1*275@x!5^15#1*51@x!13^2#1*115@
+xma|1|xmax!15^12#1*131@
+xmi|1|xmin!15^11#1*131@
+y|1|y!5^16#1*51@
+yma|1|ymax!15^15#1*131@
+ymi|1|ymin!15^14#1*131@
+you|2|your_average_annual_weight_increase!5^23#1*51@your_weight!5^21#1*51@
+z|1|z!5^17#1*51@
+-- END TREE
+-- START TREE 2
+7
+__i|1|__init__!45&25^10#9*210@
+con|1|containsearbyAlmostDuplicate!45&17^8#9*146@
+res|1|result!45&25^34#5*211@
+run|1|run!46&9^11#9*82@
+sea|1|search_pattern!45&25^33#5*211@
+to_|1|to_search!45&25^30#5*211@
+wor|1|wordPattern!45&25^12#9*210@
+-- END TREE

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;webscrapeSPDRS.js&apos; to &apos;META-INF&apos;" description="Move &apos;webscrapeSPDRS.js&apos; to &apos;META-INF&apos;" destination="appClientModule/META-INF" element1="/om_deepa_first/webscrapeSPDRS.js" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1592929901901" updateReferences="true"/>
+</session>

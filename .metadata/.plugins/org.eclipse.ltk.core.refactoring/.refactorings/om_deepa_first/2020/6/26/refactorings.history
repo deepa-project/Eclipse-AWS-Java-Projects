@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;om_deepa_first/webscrapeSPDRS.json&apos; to &apos;webscrapeSPDRS.js&apos;" description="Rename resource &apos;webscrapeSPDRS.json&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="webscrapeSPDRS.json" name="webscrapeSPDRS.js" stamp="1592929123103" updateReferences="true"/>
+</session>

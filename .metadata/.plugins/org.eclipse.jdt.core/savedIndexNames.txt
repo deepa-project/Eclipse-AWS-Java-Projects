@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Eclipse AWS Java Projects\.metadata\.plugins\org.eclipse.jdt.core
+198198686.index
+2242294778.index
+1671692264.index
+3421208235.index
+46028722.index

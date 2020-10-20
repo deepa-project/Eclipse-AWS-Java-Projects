@@ -1,0 +1,15 @@
+import turtle;
+from time import sleep;
+t=turtle.Canvas();
+x=turtle.Pen();
+x.forward(100);
+x.left(90);
+x.forward(200);
+x.left(90);
+x.forward(100);
+x.left(90);
+x.forward(200);
+x.left(90);
+sleep(10);
+x.reset();
+x.clear();

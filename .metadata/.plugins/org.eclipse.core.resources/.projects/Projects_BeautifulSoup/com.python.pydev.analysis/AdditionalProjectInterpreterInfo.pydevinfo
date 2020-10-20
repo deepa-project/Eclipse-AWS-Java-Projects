@@ -1,0 +1,21 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Eclipse AWS Java Projects\.metadata\.plugins\org.eclipse.core.resources\.projects\Projects_BeautifulSoup\com.python.pydev.analysis\v2_indexcache
+bs_example1|1596442415535429000|C:\Eclipse AWS Java Projects\Projects_BeautifulSoup\bs_example1.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=bs_example1
+1=C:\Eclipse AWS Java Projects\Projects_BeautifulSoup\bs_example1.py
+-- END DICTIONARY
+-- START TREE 1
+5
+con|1|content_lis!1^27#1*19@
+pag|1|page!1^15#1*19@
+reg|1|regex!1^26#1*19@
+sou|1|soup!1^24#1*19@
+url|1|url!1^13#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

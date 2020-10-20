@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Eclipse AWS Java Projects\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2985674434.index
+365250306.index
+1941095428.index
+3495599489.index
+198198686.index
+499925286.index
+676340509.index
+2797063640.index

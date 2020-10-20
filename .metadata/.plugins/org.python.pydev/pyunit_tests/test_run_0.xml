@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+    <summary errors="1" failures="0" finished="true" name="Test Run: 0" tests="0" total_time="Finished in: 0.00 secs."/>
+    <test location="C:/Eclipse AWS Java Projects/Projects_BeautifulSoup/bs_example1.py" status="error" test="bs_example1" time="0">
+        <stdout/>
+        <stderr>
+            <![CDATA[Traceback (most recent call last):
+  File "C:\Users\deepa\.p2\pool\plugins\org.python.pydev.core_7.6.0.202006041357\pysrc\_pydev_runfiles\pydev_runfiles.py", line 468, in __get_module_from_str
+    mod = __import__(modname)
+  File "C:\Eclipse AWS Java Projects\Projects_BeautifulSoup\bs_example1.py", line 18
+    catch:
+    ^
+SyntaxError: invalid syntax
+ERROR: Module: bs_example1 could not be imported (file: C:/Eclipse AWS Java Projects/Projects_BeautifulSoup/bs_example1.py).
+]]>
+        </stderr>
+    </test>
+    <launch mode="run">
+        <launch_memento>
+            <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="Projects_BeautifulSoup Projects_BeautifulSoup"/>
+]]>
+        </launch_memento>
+    </launch>
+</pydev-testsuite>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;LearningPython/if_else_exercises&apos; to &apos;if_else_exercises.py&apos;" description="Rename resource &apos;if_else_exercises&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="if_else_exercises" name="if_else_exercises.py" stamp="1593768729687" updateReferences="true"/>
+</session>
